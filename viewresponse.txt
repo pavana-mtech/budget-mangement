@@ -1,0 +1,17 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<center><h1>RAMAIAH INSTITUTE OF TECHNOLOGY<center></h1><br> 
+<h2><center>Departmental Budget Requirements For Academic Year 19-20<center></h2> 
+</head>
+ <body> 
+  <form>
+<center>view response:</center><br>
+    <nav>
+      <div class="row">
+</div>
+</nav>   
+<a href="#" class="btn btn-full"> <center> click here to get status</center></a>
+</form>
+</body>
+</html> 
